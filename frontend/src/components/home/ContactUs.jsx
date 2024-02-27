@@ -14,21 +14,21 @@ import { useTranslation } from "react-i18next";
 export const dataMedia = [
   {
     icon: <RiTwitterXFill />,
-    title: "siraat_1312",
-    link: "https://twitter.com/prog_b9",
+    title: "ojoor_1312",
+    link: "https://twitter.com/ojoor_1312",
     isText: false,
     isMedia: true,
   },
   {
     icon: <FaLinkedin />,
-    title: "siraat_12",
+    title: "ojoor_2",
     link: "https://www.linkedin.com/in/%D8%A8%D8%A7%D8%B3%D9%84-%D8%A7%D9%84-%D8%B8%D9%81%D8%B1%D9%87-9992a2284/",
     isText: false,
     isMedia: true,
   },
   {
     icon: <MdMarkEmailUnread />,
-    title: "almatar@siraat.sa",
+    title: "ojoor@ojoor.sa",
     link: "mailto:basilaldhafrah@gmail.com",
     isText: true,
     isMedia: false,
