@@ -18,8 +18,6 @@ function App() {
   const scrollToSection = (ref) => {
     ref.current.scrollIntoView({ behavior: "smooth", block: "center" });
   };
-
-  
   // routing
   const RouteWithElementGuest = [
     {
@@ -135,14 +133,6 @@ function App() {
   //   {
   //     path: "/user/settings/profile",
   //     component: <SettingPage />,
-  //   },
-  //   {
-  //     path: "/user/settings/ticket",
-  //     component: <SettingTicket />,
-  //   },
-  //   {
-  //     path: "/user/settings/calculator-and-bank-accounts",
-  //     component: <SettingCalculatorAndBankAccounts />,
   //   },
   // ];
 
